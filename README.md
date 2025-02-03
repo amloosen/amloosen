@@ -1,4 +1,14 @@
-## Hi there 👋
+I'm a researcher & computational scientist investigating cognition and mental health with neuroscientific, computational and digital tools! 🚀🧠 
+I combine cognitive neuroscience, computational psychiatry, and real-world applications to create fun, gamified cognitive tasks and symptom assessments that enable us to research the general public and specific patient groups. 💡📱
+
+- Cognitive & Symptom Assessment In- and Outside the Lab 🎯 💻:
+I design and implement digital cognitive tasks and web- and mobile app assessments to capture decision-making, learning, and mental health symptom patterns. By combining behavioral experiments, neuroscientific data, and computational tools, I aim to get key insights into cognition and mental health conditions. 🤖💥
+
+- Real-World Impact 🌍:
+From clinical samples to large-scale public datasets, I’m passionate about turning research into accessible tools. My work includes tracking psychiatric symptoms during global events (COVID-19 😷) and crafting cognitive assessments that prioritize participant engagement and data privacy. 🔒✨
+
+- Outreach & Science Communication 📣:
+I believe science should be fun and accessible! Projects like OCD and the Brain (https://ocdandthebrain.com/en) and my role in the SPICE Summer Program in Computational Education (https://www.neurocpu.org/spice) help demystify neuroscientific and mental health research and empower people with information.🔍
 
 <!--
 **amloosen/amloosen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
