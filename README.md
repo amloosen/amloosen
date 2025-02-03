@@ -1,4 +1,4 @@
-I'm a researcher & computational scientist investigating cognition and mental health with neuroscientific, computational and digital tools! 🚀🧠 
+I'm a researcher & computational scientist investigating cognition and mental health with neuroscientific, computational and digital tools! 🧠 ⚙️ 
 I combine cognitive neuroscience, computational psychiatry, and real-world applications to create fun, gamified cognitive tasks and symptom assessments that enable us to research the general public and specific patient groups. 💡📱
 
 - Cognitive & Symptom Assessment In- and Outside the Lab 🎯 💻:
